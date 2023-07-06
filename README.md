@@ -7,4 +7,5 @@ Supported Blender versions:
 
 io_scene_ahitfbx_279 - Blender 2.79, previous versions untested.<br>
 io_scene_ahitfbx_290 - Blender 2.80 - Blender 3.2.0.<br>
-io_scene_ahitfbx_320 - Blender 3.2.0 - Present.
+io_scene_ahitfbx_320 - Blender 3.2.0 - Blender 3.6.0.<br>
+io_scene_ahitfbx_360 - Blender 3.6.0 - Present.
